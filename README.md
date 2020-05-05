@@ -1,1 +1,2 @@
 # Waxom-site
+Website layout
